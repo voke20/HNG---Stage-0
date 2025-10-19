@@ -9,13 +9,13 @@ This project is a personal profile card built as part of the HNG Frontend Stage 
 It showcases basic HTML, CSS, and JavaScript skills, focusing on accessibility, responsiveness, and semantic structure.
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5** – structure  
 - **CSS3** – layout and styling (responsive with media queries)  
 - **JavaScript (ES6)** – displays live time dynamically  
 
 
-## 🧪 How to Run Locally
+## How to Run Locally
 
 Follow these steps to clone and run the project locally:
 
