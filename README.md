@@ -1,6 +1,6 @@
-# 🌐 HNG Internship Stage 0 Project
+# 🌐 HNG Internship Stage 1 Project
 
-This is my **HNG Internship Stage 0** project — a personal website built using **HTML**, **CSS**, and **JavaScript**.  
+This is my **HNG Internship Stage 1** project — a personal website built using **HTML**, **CSS**, and **JavaScript**.  
 It includes a homepage, an about page, and a contact page with interactive form validation.
 
 ---
@@ -11,7 +11,7 @@ It includes a homepage, an about page, and a contact page with interactive form 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 
 The form includes validation for:
