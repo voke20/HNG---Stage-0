@@ -1,30 +1,31 @@
-# HNG Internship – Frontend Stage 0 Task
+# 🌐 HNG Internship Stage 0 Project
+
+This is my **HNG Internship Stage 0** project — a personal website built using **HTML**, **CSS**, and **JavaScript**.  
+It includes a homepage, an about page, and a contact page with interactive form validation.
+
+---
+
+## 🖥️ Live Demo
+🔗 **View the Project:** [https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/your-repo-name/)  
+*(Replace `yourusername` and `your-repo-name` with your actual GitHub details.)*
+
+---
+
+## 📁 Project Structure
 
 
-**Live URL:** [https://voke20.github.io/HNG/](https://voke20.github.io/HNG/)  
-**GitHub Repository:** [https://github.com/voke20/HNG](https://github.com/voke20/HNG)
+The form includes validation for:
+- Full Name — cannot be empty  
+- Email — must be valid (e.g., `name@example.com`)  
+- Subject — cannot be empty  
+- Message — must be at least 10 characters  
 
-## Project Description
-This project is a personal profile card built as part of the HNG Frontend Stage 0 task.  
-It showcases basic HTML, CSS, and JavaScript skills, focusing on accessibility, responsiveness, and semantic structure.
+A success message appears once all inputs are valid.
 
+---
 
-## Technologies Used
-- **HTML5** – structure  
-- **CSS3** – layout and styling (responsive with media queries)  
-- **JavaScript (ES6)** – displays live time dynamically  
+## 🚀 How to Run Locally
 
-
-## How to Run Locally
-
-Follow these steps to clone and run the project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/voke20/HNG.git
-
-# Navigate into the project directory
-cd HNG
-
-# Open the HTML file in your browser
-open index.html   # (or double-click the file)
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
